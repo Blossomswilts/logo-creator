@@ -41,15 +41,19 @@ As a side note, when making changes, always merge or pull from the latest versio
 
 ## Walkthrough
 
-[Link to walkthough]()
+[Link to walkthough](https://drive.google.com/file/d/1By7LDij3R7Q1nZDnPfNiBhbQl0rZqQZY/view?usp=drive_link)
 
 ## Screenshots
 This shows the terminal program, and what questions will be asked. 
-![ReadMeGen1]()
+![terminal app](https://github.com/Blossomswilts/logo-creator/assets/117021869/3e7bceee-ad02-4ae9-bc98-e915ec3730d7)
+
+This shows the tests results from the jest package.
+![jest test](https://github.com/Blossomswilts/logo-creator/assets/117021869/b877a5b4-9822-456a-8e69-5714370589be)
 
 
-This shows the example SVG logo file, and how it will present. 
-![ReadMeGen2]()
+This shows the example SVG logo example. 
+![Example SVG](https://github.com/Blossomswilts/logo-creator/assets/117021869/a3147e08-d9b3-45a9-8158-efaebecabe1b)
+
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
